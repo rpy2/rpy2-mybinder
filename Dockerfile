@@ -1,1 +1,1 @@
-FROM rpy2/base-ubuntu:master-19.10
+FROM rpy2/jupyter-ubuntu:master-19.10
