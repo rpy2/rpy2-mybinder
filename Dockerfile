@@ -1,4 +1,4 @@
-FROM rpy2/jupyter-ubuntu:master-19.10
+FROM rpy2/jupyter-ubuntu:master-20.04
 
 WORKDIR /home/"${NB_USER}"/work/
 
